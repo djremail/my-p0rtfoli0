@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2f3ac8c9.css",
+    "main.js": "/static/js/main.ea031bb1.js",
+    "static/media/05-big.jpg": "/static/media/05-big.c0ba1e19bd61ae69396c.jpg",
+    "static/media/03-big.jpg": "/static/media/03-big.d394ec8640815275760e.jpg",
+    "static/media/01-big.jpg": "/static/media/01-big.f7393aa2f3c803d136ad.jpg",
+    "static/media/02-big.jpg": "/static/media/02-big.3e6708c01fcb5833f5b8.jpg",
+    "static/media/06-big.jpg": "/static/media/06-big.53d3fab4827788972a56.jpg",
+    "static/media/04-big.jpg": "/static/media/04-big.6861dffd63b7b11858d3.jpg",
+    "static/media/01.jpg": "/static/media/01.fa6750a1e8cd6a3262dd.jpg",
+    "static/media/05.jpg": "/static/media/05.b76e6840148c732ec00d.jpg",
+    "static/media/03.jpg": "/static/media/03.5427a629fa7f52965a31.jpg",
+    "static/media/06.jpg": "/static/media/06.5e46dfae0066f66dbb44.jpg",
+    "static/media/02.jpg": "/static/media/02.7c0ef65be7f76d881f5e.jpg",
+    "static/media/04.jpg": "/static/media/04.c3f7d367847b1f4d53f1.jpg",
+    "static/media/header-bg.png": "/static/media/header-bg.5bf82a058f892ab7f237.png",
+    "static/media/codewars.svg": "/static/media/codewars.e2ee3bbd6494f905615e7b8e96e22488.svg",
+    "static/media/sun.svg": "/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/gitHub.svg": "/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/gitHub-black.svg": "/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "static/media/instagram.svg": "/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
+    "static/media/twitter.svg": "/static/media/twitter.d4b0a40866d7b735834b96db6728afc1.svg",
+    "static/media/linkedIn.svg": "/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
+    "index.html": "/index.html",
+    "main.2f3ac8c9.css.map": "/static/css/main.2f3ac8c9.css.map",
+    "main.ea031bb1.js.map": "/static/js/main.ea031bb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f3ac8c9.css",
+    "static/js/main.ea031bb1.js"
+  ]
+}
